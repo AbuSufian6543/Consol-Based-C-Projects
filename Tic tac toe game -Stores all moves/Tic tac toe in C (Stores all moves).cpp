@@ -250,6 +250,6 @@ int main()
 
 	startgame();
 	
-	printf("\n\n\n\t\t---Project By Sweta.");  
+	printf("\n\n\n\t\t---Project By Sufian.");  
     return 0;
 }
