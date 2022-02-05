@@ -451,7 +451,7 @@ int main()
 				viewlist();
 				break;
 			case 0:
-				printf("\n\t\tProject by Soumyadip");
+				printf("\n\t\tProject by Sufian");
 				exit(1);
 				
 				break;
